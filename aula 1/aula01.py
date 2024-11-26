@@ -1,0 +1,5 @@
+print("olá, mundo")
+print("eu gosto de ler")
+print("eu estou lendo um livro novo")
+print("eu amo escutar música")
+print("eu amo a billie eilish")
